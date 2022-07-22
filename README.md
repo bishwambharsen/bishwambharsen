@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bishwambharsen
-- 👀 I’m interested in Salesforce Apex, Aura, LWC related dev work.
-- 🌱 I’m currently learning LWC
+- 👀 I’m interested in Salesforce Apex, LWC related dev work.
 - 💞️ I’m looking to collaborate on LWC, Aura, Apex
 - 📫 How to reach me ... bishwambhar.sen@gmail.com
 
